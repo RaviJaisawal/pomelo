@@ -58,7 +58,7 @@ const init = async () => {
                 method: 'GET',
                 headers: {
                     'Content-Type': 'application/json',
-                    'Authorization': 'Token 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',
+                    'Authorization': 'Token *************************',
                 }
             })
             .then(response => response.json())
